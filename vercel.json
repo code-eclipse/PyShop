@@ -1,7 +1,7 @@
 {
 "builds" : [{
 
-        "src": "PyShop/wsgi.py",
+        "src": "pyshop/wsgi.py",
 
         "use": "@vercel/python",
 
