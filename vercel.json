@@ -15,7 +15,7 @@
 
             "src": "/(.*)",
 
-            "dest": "PyShop/wsgi.py"
+            "dest": "pyshop/wsgi.py"
 
         }
 
